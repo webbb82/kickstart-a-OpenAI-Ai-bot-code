@@ -29,7 +29,7 @@ https://www.howtogeek.com/885918/how-to-get-an-openai-api-key/
 ---
     import openai
                     V  V  V---key goes here
-    openai.api_key =        < <  <  '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'
+    openai.api_key =        < <  <  
 
     # Define a function to get the response from OpenAI
     def get_response(prompt):
